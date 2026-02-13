@@ -1,8 +1,8 @@
 # Portfolio
 
-My personal portfolio website showcasing research in AI Safety and Machine Learning.
+My personal portfolio website showcasing my projects while at Boise State University.
 
-**Live site:** [jrosser.co.uk](https://jrosseruk.github.io)
+**Live site:** [kennyshannon-bsu.github.io](https://kennyshannon-bsu.github.io)
 
 ## Preview
 
@@ -29,4 +29,4 @@ python -m http.server 8000 -d docs/
 - `docs/styles.css` - Styling
 - `docs/script.js` - Functionality
 
-Inspired by [astro-theme-cactus](https://astro-cactus.chriswilliams.dev/) :)
+Based on template by [jrosseruk.github.io](https://(https://jrosser.co.uk/))
