@@ -4,23 +4,11 @@ My personal portfolio website showcasing my projects while at Boise State Univer
 
 **Live site:** [kennyshannon-bsu.github.io](https://kennyshannon-bsu.github.io)
 
-## Preview
-
-![Portfolio Screenshot](docs/assets/screenshot.png)
-
-
 ## Tech Stack
 
 - Vanilla HTML, CSS, JavaScript
 - Markdown content
 - GitHub Pages hosting
-
-## Development
-
-```bash
-# Serve locally
-python -m http.server 8000 -d docs/
-```
 
 ## Structure
 
