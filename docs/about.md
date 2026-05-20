@@ -17,4 +17,4 @@
 
 
 I'm a student at Boise State University. On this site, I will be showcasing my projects and resume.
-Currently, the this site is small and pretty much empty, but that will be changing in the near future!
+Currently, this site is small and pretty much empty, but that will change in the near future!
